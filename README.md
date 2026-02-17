@@ -1,17 +1,17 @@
 # Hospital System Appointment Reminder Service
 A Windows service that sends SMS reminders for upcoming appointments. This service is built for the [Hospital Management System](https://github.com/malakmuayad11/Hospital-Management-System).
 
-# ✅ Features
+## ✅ Features
 - 📧 Send reminders for appointments that are scheduled within the next hour from the current time.
 - 💾 Log errors in the event viewer.
 - 📊 Store and retrieve data from SQL Server.
 - 💬 Send appointment reminder SMS messages using the smsmode API. Note: During development, the integration successfully submits messages and receives tracking IDs, while actual delivery may vary in sandbox environments.
 
-# Build Instructions (Release Mode):
+## Build Instructions (Release Mode):
 1. Save the source code.
 2. Build the solution (ctrl + shift + b) in release mode.
 
-# Deployment Instructions:
+## Deployment Instructions:
 ### Installation (Using InstallUtil):
 1. Open the solution's folder in File Explorer.
 2. Open bin -> release -> copy file path **(service's file path)**.
