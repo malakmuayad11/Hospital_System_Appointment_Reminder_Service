@@ -28,7 +28,8 @@ Hospital_System_Appointment_Reminder_Service.exe
 ### Stop Service:
 1. Open the command prompt in administrator mode.
 2. Use this command: sc stop DatabaseBackupService
-# Uninstallation (Using InstallUtil):
+
+## Uninstallation (Using InstallUtil):
 1. Open the command prompt in administrator mode.
 2. Use the following command:
    - for 64-bit systems: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe -u DatabaseBackupService.exe
