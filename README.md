@@ -7,12 +7,12 @@ A Windows service that sends SMS reminders for upcoming appointments. This servi
 - 📊 Store and retrieve data from SQL Server.
 - 💬 Send appointment reminder SMS messages using the smsmode API. Note: During development, the integration successfully submits messages and receives tracking IDs, while actual delivery may vary in sandbox environments.
 
-## Build Instructions (Release Mode):
+## 📲 Build Instructions (Release Mode):
 1. Save the source code.
 2. Build the solution (ctrl + shift + b) in release mode.
 
-## Deployment Instructions:
-### Installation (Using InstallUtil):
+## 📲 Deployment Instructions:
+### ⬇️ Installation (Using InstallUtil):
 1. Open the solution's folder in File Explorer.
 2. Open bin -> release -> copy file path **(service's file path)**.
 3. Open the command prompt in **administrator mode**.
@@ -22,14 +22,14 @@ A Windows service that sends SMS reminders for upcoming appointments. This servi
 Hospital_System_Appointment_Reminder_Service.exe
    - for 32-bit systems: C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe 
 Hospital_System_Appointment_Reminder_Service.exe
-### Start Service:
+### 🎇 Start Service:
 1. Open the command prompt in administrator mode.
 2. Use this command: sc start DatabaseBackupService
-### Stop Service:
+### 🛑 Stop Service:
 1. Open the command prompt in administrator mode.
 2. Use this command: sc stop DatabaseBackupService
 
-## Uninstallation (Using InstallUtil):
+## ⛔ Uninstallation (Using InstallUtil):
 1. Open the command prompt in administrator mode.
 2. Use the following command:
    - for 64-bit systems: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe -u DatabaseBackupService.exe
