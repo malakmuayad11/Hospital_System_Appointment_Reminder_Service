@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DellUser\\source\\repos\\Hospital_System_Appointment_Reminder_Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC451CA-8A38-4DED-BE5B-2E3BF1D82BD4}|Hospital_System_Appointment_Reminder_Service.csproj|c:\\users\\delluser\\source\\repos\\hospital_system_appointment_reminder_service\\appointmentsreminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC451CA-8A38-4DED-BE5B-2E3BF1D82BD4}|Hospital_System_Appointment_Reminder_Service.csproj|solutionrelative:appointmentsreminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC451CA-8A38-4DED-BE5B-2E3BF1D82BD4}|Hospital_System_Appointment_Reminder_Service.csproj|C:\\Users\\DellUser\\source\\repos\\Hospital_System_Appointment_Reminder_Service\\appointmentsreminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EC451CA-8A38-4DED-BE5B-2E3BF1D82BD4}|Hospital_System_Appointment_Reminder_Service.csproj|solutionrelative:appointmentsreminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC451CA-8A38-4DED-BE5B-2E3BF1D82BD4}|Hospital_System_Appointment_Reminder_Service.csproj|C:\\Users\\DellUser\\source\\repos\\Hospital_System_Appointment_Reminder_Service\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC451CA-8A38-4DED-BE5B-2E3BF1D82BD4}|Hospital_System_Appointment_Reminder_Service.csproj|solutionrelative:projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CDE510-FB2B-4D9B-9E01-EA1567DA2162}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\delluser\\source\\repos\\infrastructure\\clseventlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CDE510-FB2B-4D9B-9E01-EA1567DA2162}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\delluser\\source\\repos\\infrastructure\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2C0B64-48B3-4A8F-A9F0-43EAF34CA530}|..\\Service_Business\\Service_Business.csproj|c:\\users\\delluser\\source\\repos\\service_business\\clslog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2C0B64-48B3-4A8F-A9F0-43EAF34CA530}|..\\Service_Business\\Service_Business.csproj|c:\\users\\delluser\\source\\repos\\service_business\\clsreminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2C0B64-48B3-4A8F-A9F0-43EAF34CA530}|..\\Service_Business\\Service_Business.csproj|c:\\users\\delluser\\source\\repos\\service_business\\clssmsreminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2C0B64-48B3-4A8F-A9F0-43EAF34CA530}|..\\Service_Business\\Service_Business.csproj|c:\\users\\delluser\\source\\repos\\service_business\\clsupcominginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2C0B64-48B3-4A8F-A9F0-43EAF34CA530}|..\\Service_Business\\Service_Business.csproj|c:\\users\\delluser\\source\\repos\\service_business\\ireminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECCBCA5-9E39-44EC-8632-EE75E572E2D3}|..\\Service_Data\\Service_Data.csproj|c:\\users\\delluser\\source\\repos\\service_data\\clssettingsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECCBCA5-9E39-44EC-8632-EE75E572E2D3}|..\\Service_Data\\Service_Data.csproj|c:\\users\\delluser\\source\\repos\\service_data\\clsupcominginfodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18F8BC0-D857-46D5-8FF5-EF5C4ECDDBA6}|..\\Models\\Service_Models.csproj|c:\\users\\delluser\\source\\repos\\models\\clsupcominginfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC451CA-8A38-4DED-BE5B-2E3BF1D82BD4}|Hospital_System_Appointment_Reminder_Service.csproj|C:\\Users\\DellUser\\source\\repos\\Hospital_System_Appointment_Reminder_Service\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EC451CA-8A38-4DED-BE5B-2E3BF1D82BD4}|Hospital_System_Appointment_Reminder_Service.csproj|solutionrelative:projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC451CA-8A38-4DED-BE5B-2E3BF1D82BD4}|Hospital_System_Appointment_Reminder_Service.csproj|C:\\Users\\DellUser\\source\\repos\\Hospital_System_Appointment_Reminder_Service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC451CA-8A38-4DED-BE5B-2E3BF1D82BD4}|Hospital_System_Appointment_Reminder_Service.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsReminder.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\source\\repos\\Service_Business\\clsReminder.cs",
+              "RelativeDocumentMoniker": "..\\Service_Business\\clsReminder.cs",
+              "ToolTip": "C:\\Users\\DellUser\\source\\repos\\Service_Business\\clsReminder.cs",
+              "RelativeToolTip": "..\\Service_Business\\clsReminder.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wC4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:58:12.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsLog.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\source\\repos\\Service_Business\\clsLog.cs",
+              "RelativeDocumentMoniker": "..\\Service_Business\\clsLog.cs",
+              "ToolTip": "C:\\Users\\DellUser\\source\\repos\\Service_Business\\clsLog.cs",
+              "RelativeToolTip": "..\\Service_Business\\clsLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T20:00:06.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILog.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\source\\repos\\Infrastructure\\ILog.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\ILog.cs",
+              "ToolTip": "C:\\Users\\DellUser\\source\\repos\\Infrastructure\\ILog.cs",
+              "RelativeToolTip": "..\\Infrastructure\\ILog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T20:01:49.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsEventLog.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\source\\repos\\Infrastructure\\clsEventLog.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\clsEventLog.cs",
+              "ToolTip": "C:\\Users\\DellUser\\source\\repos\\Infrastructure\\clsEventLog.cs",
+              "RelativeToolTip": "..\\Infrastructure\\clsEventLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:55:24.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\source\\repos\\Hospital_System_Appointment_Reminder_Service\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\DellUser\\source\\repos\\Hospital_System_Appointment_Reminder_Service\\ProjectInstaller.cs",
+              "RelativeToolTip": "ProjectInstaller.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T15:57:24.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentsReminderService.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\source\\repos\\Hospital_System_Appointment_Reminder_Service\\AppointmentsReminderService.cs",
+              "RelativeDocumentMoniker": "AppointmentsReminderService.cs",
+              "ToolTip": "C:\\Users\\DellUser\\source\\repos\\Hospital_System_Appointment_Reminder_Service\\AppointmentsReminderService.cs [Design]",
+              "RelativeToolTip": "AppointmentsReminderService.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T16:28:48.258Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentsReminderService.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\source\\repos\\Hospital_System_Appointment_Reminder_Service\\AppointmentsReminderService.cs",
+              "RelativeDocumentMoniker": "AppointmentsReminderService.cs",
+              "ToolTip": "C:\\Users\\DellUser\\source\\repos\\Hospital_System_Appointment_Reminder_Service\\AppointmentsReminderService.cs",
+              "RelativeToolTip": "AppointmentsReminderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T16:28:50.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsSMSReminder.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\source\\repos\\Service_Business\\clsSMSReminder.cs",
+              "RelativeDocumentMoniker": "..\\Service_Business\\clsSMSReminder.cs",
+              "ToolTip": "C:\\Users\\DellUser\\source\\repos\\Service_Business\\clsSMSReminder.cs",
+              "RelativeToolTip": "..\\Service_Business\\clsSMSReminder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:48:00.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsUpcomingInfo.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\source\\repos\\Service_Business\\clsUpcomingInfo.cs",
+              "RelativeDocumentMoniker": "..\\Service_Business\\clsUpcomingInfo.cs",
+              "ToolTip": "C:\\Users\\DellUser\\source\\repos\\Service_Business\\clsUpcomingInfo.cs",
+              "RelativeToolTip": "..\\Service_Business\\clsUpcomingInfo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:53:01.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IReminder.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\source\\repos\\Service_Business\\IReminder.cs",
+              "RelativeDocumentMoniker": "..\\Service_Business\\IReminder.cs",
+              "ToolTip": "C:\\Users\\DellUser\\source\\repos\\Service_Business\\IReminder.cs",
+              "RelativeToolTip": "..\\Service_Business\\IReminder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:51:29.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsSettingsData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\source\\repos\\Service_Data\\clsSettingsData.cs",
+              "RelativeDocumentMoniker": "..\\Service_Data\\clsSettingsData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\source\\repos\\Service_Data\\clsSettingsData.cs",
+              "RelativeToolTip": "..\\Service_Data\\clsSettingsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:51:20.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsUpcomingInfoData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\source\\repos\\Service_Data\\clsUpcomingInfoData.cs",
+              "RelativeDocumentMoniker": "..\\Service_Data\\clsUpcomingInfoData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\source\\repos\\Service_Data\\clsUpcomingInfoData.cs",
+              "RelativeToolTip": "..\\Service_Data\\clsUpcomingInfoData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:48:35.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsUpcomingInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\source\\repos\\Models\\clsUpcomingInfoDTO.cs",
+              "RelativeDocumentMoniker": "..\\Models\\clsUpcomingInfoDTO.cs",
+              "ToolTip": "C:\\Users\\DellUser\\source\\repos\\Models\\clsUpcomingInfoDTO.cs",
+              "RelativeToolTip": "..\\Models\\clsUpcomingInfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:48:26.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProjectInstaller.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\source\\repos\\Hospital_System_Appointment_Reminder_Service\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\DellUser\\source\\repos\\Hospital_System_Appointment_Reminder_Service\\ProjectInstaller.cs [Design]",
+              "RelativeToolTip": "ProjectInstaller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T15:57:22.981Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\source\\repos\\Hospital_System_Appointment_Reminder_Service\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DellUser\\source\\repos\\Hospital_System_Appointment_Reminder_Service\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:43:37.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

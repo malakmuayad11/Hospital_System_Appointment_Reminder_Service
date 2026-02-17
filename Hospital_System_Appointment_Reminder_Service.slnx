@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../Infrastructure/Infrastructure.csproj" Id="08cde510-fb2b-4d9b-9e01-ea1567da2162" />
+  <Project Path="../Models/Service_Models.csproj" Id="c18f8bc0-d857-46d5-8ff5-ef5c4ecddba6" />
+  <Project Path="../Service_Business/Service_Business.csproj" Id="ba2c0b64-48b3-4a8f-a9f0-43eaf34ca530" />
+  <Project Path="../Service_Data/Service_Data.csproj" Id="9eccbca5-9e39-44ec-8632-ee75e572e2d3" />
+  <Project Path="Hospital_System_Appointment_Reminder_Service.csproj" Id="2ec451ca-8a38-4ded-be5b-2e3bf1d82bd4" />
+</Solution>

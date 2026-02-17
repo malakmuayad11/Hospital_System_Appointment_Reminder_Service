@@ -1,0 +1,47 @@
+﻿Installing assembly 'C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.exe
+   logfile = C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.InstallLog
+Installing service AppointmentsReminderService...
+Service AppointmentsReminderService has been successfully installed.
+Creating EventLog source AppointmentsReminderService in log Application...
+Committing assembly 'C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.exe
+   logfile = C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.InstallLog
+Installing assembly 'C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.exe
+   logfile = C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.InstallLog
+Installing service AppointmentsReminderService...
+Creating EventLog source AppointmentsReminderService in log Application...
+Rolling back assembly 'C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.exe
+   logfile = C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.InstallLog
+Restoring event log to previous state for source AppointmentsReminderService.
+Uninstalling assembly 'C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.exe
+   logfile = C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.InstallLog
+Removing EventLog source AppointmentsReminderService.
+Service AppointmentsReminderService is being removed from the system...
+Service AppointmentsReminderService was successfully removed from the system.
+Installing assembly 'C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.exe
+   logfile = C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.InstallLog
+Installing service AppointmentsReminderService...
+Service AppointmentsReminderService has been successfully installed.
+Creating EventLog source AppointmentsReminderService in log Application...
+Committing assembly 'C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.exe
+   logfile = C:\Users\DellUser\source\repos\Hospital_System_Appointment_Reminder_Service\bin\Release\Hospital_System_Appointment_Reminder_Service.InstallLog
